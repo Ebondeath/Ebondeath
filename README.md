@@ -17,7 +17,7 @@
 ### Pra conteúdo sobre programação me segue nas redes abaixo!
 
 <div> 
-  <!--<a href="https://www.youtube.com/@Grimgrin-h8y" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>-->
+  <a href="https://www.youtube.com/@Grimgrin-h8y" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 
   ![snake gif](https://github.com/Ebondeath/Ebondeath/blob/output/github-snake-dark.svg)
 </div>
