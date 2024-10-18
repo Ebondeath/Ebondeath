@@ -2,8 +2,8 @@
 
 <div>
    <a href="https://github.com/Ebondeath">
-   <img height="160cm" src="https://github-readme-stats.vercel.app/api?username=Ebondeath&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   <img height="140cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ebondeath&layout=compact&langs_count=16&theme=dark" />
+   <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=Ebondeath&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   <img height="130cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ebondeath&layout=compact&langs_count=16&theme=dark" />
 </div>
 
 <div style="display: inline_block"><br>
